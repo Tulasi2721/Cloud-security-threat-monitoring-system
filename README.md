@@ -1,4 +1,6 @@
-# IBM Cloud Security Threat Monitoring System
+IBM PROJECT
+
+# Cloud Security Threat Monitoring System
 
 A comprehensive enterprise-grade cybersecurity solution for monitoring and detecting security threats in cloud environments. This system integrates with AWS CloudWatch, IBM QRadar, and ELK Stack to provide real-time threat detection, analysis, and automated incident response.
 
