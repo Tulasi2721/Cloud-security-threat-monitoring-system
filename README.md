@@ -490,6 +490,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for IBM Enterprise Security Standards**
 
-*Version 1.0.0 - Enterprise Grade Cloud Security Platform*
